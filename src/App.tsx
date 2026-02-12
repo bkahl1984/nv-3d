@@ -5,8 +5,6 @@ import NoahLogo from "./assets/noah-photo.png";
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
       <div>
