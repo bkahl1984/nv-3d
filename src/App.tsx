@@ -4,10 +4,9 @@ import './App.css'
 function App() {
   return (
     <>
-      <h1>eNVy Creations LLC</h1>
-      <div>Coming Soon!</div>
+      <h1>Coming Soon!</h1>
       <div>
-        <img src={logo} alt="Logo" width={600} />
+        <img className="logo" src={logo} alt="Logo" width={600} />
       </div>
     </>
   )
