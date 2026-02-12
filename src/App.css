@@ -5,15 +5,24 @@
   text-align: center;
 }
 
+.page {
+  min-height: 100vh;
+  padding: 24px 20px;
+  text-align: center;
+}
+
 .logo {
-  width: min(92vw, 700px);
+  width: 600px;
+  max-width: 100%;
   height: auto;
   display: block;
   margin: 24px auto 0;
 }
+
 .logo:hover {
   filter: drop-shadow(0 0 2em #646cffaa);
 }
+
 .logo.react:hover {
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
