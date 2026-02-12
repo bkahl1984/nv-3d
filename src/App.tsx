@@ -1,4 +1,4 @@
-import logo from "/noah-photo.jpg";
+import logo from "/public/envy-creations-logo.png";
 import './App.css'
 
 function App() {
