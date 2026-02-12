@@ -1,4 +1,4 @@
-import logo from "/public/envy-creations-logo.png";
+import logo from "/public/nv-3d-logo.png";
 import './App.css'
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
       <h1>eNVy Creations LLC</h1>
       <div>Coming Soon!</div>
       <div>
-        <img src={logo} alt="Logo" width={200} />
+        <img src={logo} alt="Logo" width={600} />
       </div>
     </>
   )
